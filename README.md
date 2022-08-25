@@ -1,4 +1,5 @@
-Chainlink VRFs
+Chainlink VRFs Tutorial
+
 Introduction
 When dealing with computers, randomness is an important but difficult issue to handle due to a computer's deterministic nature. This is true even more so when speaking of blockchain because not only is the computer deterministic, but it is also transparent. As a result, trusted random numbers cannot be generated natively in Solidity because randomness will be calculated on-chain which is public info to all the miners and the users.
 
